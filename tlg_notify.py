@@ -6,6 +6,8 @@ import random
 bot_token = "6986363245:AAEKpwak_fBiBX9Pmy08IyxjuH1-_zf0Dqo"
 chat_id = "@st89_channel"
 
+
+
 html = (
     "<strong>🧾 {inv_no}</strong>\n"
     "<code>សរុប: {grand_total}</code>\n"
